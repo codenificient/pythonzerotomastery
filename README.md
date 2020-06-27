@@ -1,3 +1,3 @@
 # pythonprojects
-
-zero to master course on Udemy plus exercises
+Complete Python Developer course, Zero to Mastery course on Udemy
+by andreinagoe
