@@ -29,4 +29,5 @@ def gener_fun(num):
 	for i in range(num):
 		yield i
 
-for item in gener_fun(100)
+for item in gener_fun(100):
+	print(item)
